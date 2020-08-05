@@ -3,7 +3,7 @@ title: "Intel lanseaza Core I9-10850K" # Title of the blog post.
 date: 2020-08-02T23:09:57+03:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/i9-10850k.jpg" # Sets featured image on blog post.
@@ -27,4 +27,4 @@ Core i9-10850K este cu 100Mhz mai lent decat i9-10900K si cu 35$ mai ieftin dar 
 
 Pretul bulk pentru Core i9-10850K este 453$ fata de 550$ cat este i9-10900K dar tinand cont de timpii mari de livrare din cauza COVID-19, indicat ar fi sa cautati direct Core i9-10850K in loc de i9-10900K, este o diferenta considerabila de pret pentru doar 100Mhz in minus, care oricum cu un cooler decent, poate fi recuperata in overclock.
 
-Nu surprinde pe nimeni lansarea acestui pricesor din timp ce AMD au venit si ei cu noi procesoare, Ryzen seria 4000, care sunt deja pe 7nm, au consum mai mic de curent si livreaza performante mai bune decat ca ofera Intel la ora actuala. 
+Nu surprinde pe nimeni lansarea acestui pricesor din timp ce AMD au venit si ei cu noi procesoare, Ryzen seria 4000, care sunt deja pe 7nm, au consum mai mic de curent si livreaza performante mai bune decat ca ofera Intel la ora actuala.

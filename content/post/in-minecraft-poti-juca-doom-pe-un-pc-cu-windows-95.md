@@ -3,7 +3,7 @@ title: "In Minecraft poti juca Doom pe un PC cu Windows 95" # Title of the blog 
 date: 2020-08-02T22:40:26+03:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/minecraft-doom.jpg" # Sets featured image on blog post.

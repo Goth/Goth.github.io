@@ -3,7 +3,7 @@ title: "Preturi pentru noile Macbook cu procesoare Arm" # Title of the blog post
 date: 2020-08-03T14:27:34+03:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/macbook1.jpg" # Sets featured image on blog post.
@@ -34,4 +34,4 @@ Inca un factor care trebuie luat in considerare odata cu noile procesoare este d
 
 Si ca gand de final, odata cu preturile mici, noile MacBook-uri vor avea un sens pentu cei care au deja un iPhone si / sau un Apple Watch si un PC cu Windows, pentu acesti oameni sa schimbe de pe Windows pe Mac OS va avea sens, chiar mult sens. Acum e ca si cum ai avea o tocanita de fasole cu zahar, adica un non-sens si treci pe o tocanita de fasole cu muraturi, declicios, nu?
 
-Hai ca mi s-a facut foame deja. 
+Hai ca mi s-a facut foame deja.

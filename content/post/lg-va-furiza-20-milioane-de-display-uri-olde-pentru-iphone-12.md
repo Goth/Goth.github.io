@@ -3,7 +3,7 @@ title: "Lg va furniza 20 milioane de display-uri OLED pentru iPhone 12" # Title 
 date: 2020-08-02T21:57:52+03:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/iphone-12.jpg" # Sets featured image on blog post.

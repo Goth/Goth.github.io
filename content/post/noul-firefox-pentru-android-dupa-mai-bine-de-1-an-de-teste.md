@@ -3,7 +3,7 @@ title: "Noul Firefox pentru Android, dupa mai bine de 1 an de teste" # Title of 
 date: 2020-08-03T13:43:25+03:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/firefox.jpg" # Sets featured image on blog post.

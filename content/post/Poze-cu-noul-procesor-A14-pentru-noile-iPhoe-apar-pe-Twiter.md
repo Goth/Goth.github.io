@@ -3,7 +3,7 @@ title: "Poze cu noul procesor A14 pentru noile iPhone apar pe twitter" # Title o
 date: 2020-08-02T20:19:09+03:00 # Date of post creation.
 description: "Apple iPhone 12 CPU" # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/A14cpu.jpg" # Sets featured image on blog post.
