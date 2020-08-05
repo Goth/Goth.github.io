@@ -1,0 +1,14 @@
+- name: HardTek
+  link: https://hardtek.ro/
+#- name: Archives
+#  link: post/rich-content/
+# - name: Apple
+#   link: /categories/apple/
+- name: Link-uri
+  submenu:
+    - name: Hackintosh Romania
+      link: https://www.facebook.com/groups/661295330738314
+    - name: Discord
+      link: https://discord.gg/pxSkHfE
+- name: Despre
+  link: despre/

@@ -1,0 +1,7 @@
+- item: "facebook"
+  url: "https://www.facebook.com/HardTekPC"
+- item: "twitter"
+  url: "https://twitter.com/iuliphoto"
+- item: "rss"
+  url: "index.xml"
+  internal:  true

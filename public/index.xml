@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clarity</title>
+    <link>https://hardtek.ro/</link>
+    <description>Recent content on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    
+	<atom:link href="https://hardtek.ro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Despre</title>
+      <link>https://hardtek.ro/about/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardtek.ro/about/</guid>
+      <description>HardTek este un proiect mai vechi gandit pentru a informa si pentru a tine la curent privitorii si curiosii despre ce se intampla in domeniul tech.
+Ideea este simpla, se iau stiri de pe diferite site-uri de specialitate, se traduc si se urca aici.
+Domeniile listate pe HardTek cuprind stiri din tehnologe, PC hardware si software, jocuri (PC, PS, XBOX), sisteme de operare (LINUX, WINDOWS, MAC OS) si tips &amp;amp; tricks.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hardtek.ro/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardtek.ro/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
