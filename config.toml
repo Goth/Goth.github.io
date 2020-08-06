@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = ""  # Include trailing slash
+baseurl = "https://hardtek.ro/"  # Include trailing slash
 title = "HardTek - Tek La Greu"
 author = "Jane Doe"
 copyright = "Copyright © 2020, HardTek toate drepturile rezervate."
