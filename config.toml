@@ -7,6 +7,7 @@ copyright = "Copyright © 2020, HardTek toate drepturile rezervate."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
+disqusShortname = "IulianGeorgescu"
 
 [markup]
   [markup.highlight]
