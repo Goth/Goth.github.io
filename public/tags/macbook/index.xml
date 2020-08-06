@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macbook on HardTek - Tek La Greu</title>
-    <link>/tags/macbook/</link>
+    <link>https://hardtek.ro/tags/macbook/</link>
     <description>Recent content in Macbook on HardTek - Tek La Greu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
     <lastBuildDate>Mon, 03 Aug 2020 14:27:34 +0300</lastBuildDate>
     
-	<atom:link href="/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hardtek.ro/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Preturi pentru noile Macbook cu procesoare Arm</title>
-      <link>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</link>
+      <link>https://hardtek.ro/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</link>
       <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
       
-      <guid>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</guid>
+      <guid>https://hardtek.ro/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</guid>
       <description>Am avut o mica dezbatede pe grupul de Facebook Hackintosh Romania despre noile MacBook-uri care vor avea noile procesoare custom facute de Apple si conform zvonurilor se pare chiar asa va fi : noile MacBook-uri vor avea preturi mai mici, cu 200 – 300 dolari mai mici, depinde de model.
 Conform celor spuse pe Twitter primul MacBook cu procesor ARM va costa 799$ si modelul de 13″ MacBook Pro care probabil va avea tot procesor Apple va fi 1,099$.</description>
     </item>

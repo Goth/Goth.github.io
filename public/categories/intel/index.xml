@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intel on HardTek - Tek La Greu</title>
-    <link>/categories/intel/</link>
+    <link>https://hardtek.ro/categories/intel/</link>
     <description>Recent content in Intel on HardTek - Tek La Greu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
     <lastBuildDate>Sun, 02 Aug 2020 23:09:57 +0300</lastBuildDate>
     
-	<atom:link href="/categories/intel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hardtek.ro/categories/intel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intel lanseaza Core I9-10850K</title>
-      <link>/post/intel-lanseaza-core-i9-10850k/</link>
+      <link>https://hardtek.ro/post/intel-lanseaza-core-i9-10850k/</link>
       <pubDate>Sun, 02 Aug 2020 23:09:57 +0300</pubDate>
       
-      <guid>/post/intel-lanseaza-core-i9-10850k/</guid>
+      <guid>https://hardtek.ro/post/intel-lanseaza-core-i9-10850k/</guid>
       <description>Pe hartie Core i9-10850K este la 97% din performanta lui i9-10900K dar este mai iefitin.
 Dupa ca Intel a anuntat ca vor amana pana in 2022 noile procesoare pe 7nm, anunt care nu le-a adus nimic bun si care duce compania intr-o continua descendenta la bursa, s-au decis sa mai lanseze un procesor de a 10-a generatie, Core i9-10850K.
 Core i9-10850K este cu 100Mhz mai lent decat i9-10900K si cu 35$ mai ieftin dar totusi ai un procesor cu 10 nuclee si 20 de fire de executie (threads) si desi este mai lent cu 100Mhz, cei 35$ se pot duce la un upgrade pentru alte piese.</description>

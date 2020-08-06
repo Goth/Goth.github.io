@@ -3,337 +3,347 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://hardtek.ro/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/categories/android/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/tags/android/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/categories/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/post/pc-urile-cu-windows-10-vor-putea-lansa-aplicatii-android-de-pe-telefoanele-samsung/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/post/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/tags/samsung/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/tags/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/tags/windows/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/categories/windows/</loc>
+    <lastmod>2020-08-06T13:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hardtek.ro/categories/apple/</loc>
     <lastmod>2020-08-03T14:27:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/apple/</loc>
+    <loc>https://hardtek.ro/categories/hardware/</loc>
     <lastmod>2020-08-03T14:27:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://hardtek.ro/tags/macbook/</loc>
     <lastmod>2020-08-03T14:27:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/hardware/</loc>
+    <loc>https://hardtek.ro/tags/preturi/</loc>
     <lastmod>2020-08-03T14:27:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/macbook/</loc>
+    <loc>https://hardtek.ro/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</loc>
     <lastmod>2020-08-03T14:27:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/preturi/</loc>
-    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</loc>
-    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cooler/</loc>
+    <loc>https://hardtek.ro/tags/cooler/</loc>
     <lastmod>2020-08-03T14:22:41+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</loc>
+    <loc>https://hardtek.ro/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</loc>
     <lastmod>2020-08-03T14:22:41+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/noctua/</loc>
+    <loc>https://hardtek.ro/tags/noctua/</loc>
     <lastmod>2020-08-03T14:22:41+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/facebook/</loc>
+    <loc>https://hardtek.ro/tags/facebook/</loc>
     <lastmod>2020-08-03T14:17:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/facebook-isi-face-griji-ca-ios-14-va-dauna-in-castigul-facut-din-urma-reclamelor/</loc>
+    <loc>https://hardtek.ro/post/facebook-isi-face-griji-ca-ios-14-va-dauna-in-castigul-facut-din-urma-reclamelor/</loc>
     <lastmod>2020-08-03T14:17:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ios/</loc>
+    <loc>https://hardtek.ro/tags/ios/</loc>
     <lastmod>2020-08-03T14:17:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/android/</loc>
+    <loc>https://hardtek.ro/tags/chat/</loc>
     <lastmod>2020-08-03T14:07:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/chat/</loc>
+    <loc>https://hardtek.ro/tags/google/</loc>
     <lastmod>2020-08-03T14:07:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/google/</loc>
+    <loc>https://hardtek.ro/tags/imessage/</loc>
     <lastmod>2020-08-03T14:07:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/imessage/</loc>
+    <loc>https://hardtek.ro/tags/messenger/</loc>
     <lastmod>2020-08-03T14:07:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/messenger/</loc>
+    <loc>https://hardtek.ro/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</loc>
     <lastmod>2020-08-03T14:07:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</loc>
-    <lastmod>2020-08-03T14:07:37+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/amd/</loc>
+    <loc>https://hardtek.ro/tags/amd/</loc>
     <lastmod>2020-08-03T14:00:38+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</loc>
+    <loc>https://hardtek.ro/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</loc>
     <lastmod>2020-08-03T14:00:38+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/cpu/</loc>
+    <loc>https://hardtek.ro/tags/cpu/</loc>
     <lastmod>2020-08-03T14:00:38+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mac-os/</loc>
+    <loc>https://hardtek.ro/tags/mac-os/</loc>
     <lastmod>2020-08-03T13:56:01+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</loc>
+    <loc>https://hardtek.ro/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</loc>
     <lastmod>2020-08-03T13:56:01+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/iphone/</loc>
+    <loc>https://hardtek.ro/tags/iphone/</loc>
     <lastmod>2020-08-03T13:51:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/preturi-noi-pentru-iphone12-e-de-rau/</loc>
+    <loc>https://hardtek.ro/post/preturi-noi-pentru-iphone12-e-de-rau/</loc>
     <lastmod>2020-08-03T13:51:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/android/</loc>
+    <loc>https://hardtek.ro/tags/browser/</loc>
     <lastmod>2020-08-03T13:43:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/browser/</loc>
+    <loc>https://hardtek.ro/tags/firefox/</loc>
     <lastmod>2020-08-03T13:43:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/firefox/</loc>
+    <loc>https://hardtek.ro/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</loc>
     <lastmod>2020-08-03T13:43:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</loc>
+    <loc>https://hardtek.ro/categories/software/</loc>
     <lastmod>2020-08-03T13:43:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/software/</loc>
-    <lastmod>2020-08-03T13:43:25+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</loc>
+    <loc>https://hardtek.ro/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</loc>
     <lastmod>2020-08-03T13:32:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/gaming/</loc>
+    <loc>https://hardtek.ro/tags/gaming/</loc>
     <lastmod>2020-08-03T13:32:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/jocuri/</loc>
+    <loc>https://hardtek.ro/categories/jocuri/</loc>
     <lastmod>2020-08-03T13:32:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/optimizare/</loc>
+    <loc>https://hardtek.ro/tags/optimizare/</loc>
     <lastmod>2020-08-03T13:32:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/performanta/</loc>
+    <loc>https://hardtek.ro/tags/performanta/</loc>
     <lastmod>2020-08-03T13:32:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/windows/</loc>
-    <lastmod>2020-08-03T13:32:56+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/5g/</loc>
+    <loc>https://hardtek.ro/tags/5g/</loc>
     <lastmod>2020-08-02T23:25:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/apple/</loc>
+    <loc>https://hardtek.ro/tags/apple/</loc>
     <lastmod>2020-08-02T23:25:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/huawei/</loc>
+    <loc>https://hardtek.ro/tags/huawei/</loc>
     <lastmod>2020-08-02T23:25:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/in-china-vanzarea-iphoneurilor-a-crescut-cu-225/</loc>
+    <loc>https://hardtek.ro/post/in-china-vanzarea-iphoneurilor-a-crescut-cu-225/</loc>
     <lastmod>2020-08-02T23:25:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/oppo/</loc>
+    <loc>https://hardtek.ro/tags/oppo/</loc>
     <lastmod>2020-08-02T23:25:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/vivo/</loc>
+    <loc>https://hardtek.ro/tags/vivo/</loc>
     <lastmod>2020-08-02T23:25:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/iphone-12-va-spulbera-samsung-note-20-iata-de-ce/</loc>
+    <loc>https://hardtek.ro/post/iphone-12-va-spulbera-samsung-note-20-iata-de-ce/</loc>
     <lastmod>2020-08-02T23:14:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/samsung/</loc>
-    <lastmod>2020-08-02T23:14:44+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/intel/</loc>
+    <loc>https://hardtek.ro/categories/intel/</loc>
     <lastmod>2020-08-02T23:09:57+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/intel/</loc>
+    <loc>https://hardtek.ro/tags/intel/</loc>
     <lastmod>2020-08-02T23:09:57+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/intel-lanseaza-core-i9-10850k/</loc>
+    <loc>https://hardtek.ro/post/intel-lanseaza-core-i9-10850k/</loc>
     <lastmod>2020-08-02T23:09:57+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/filme/</loc>
+    <loc>https://hardtek.ro/tags/filme/</loc>
     <lastmod>2020-08-02T22:53:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/filme/</loc>
+    <loc>https://hardtek.ro/categories/filme/</loc>
     <lastmod>2020-08-02T22:53:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/piraterie/</loc>
+    <loc>https://hardtek.ro/tags/piraterie/</loc>
     <lastmod>2020-08-02T22:53:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/top-10/</loc>
+    <loc>https://hardtek.ro/tags/top-10/</loc>
     <lastmod>2020-08-02T22:53:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/top-10-cele-mai-piratatei-filme/</loc>
+    <loc>https://hardtek.ro/post/top-10-cele-mai-piratatei-filme/</loc>
     <lastmod>2020-08-02T22:53:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/torrent/</loc>
+    <loc>https://hardtek.ro/tags/torrent/</loc>
     <lastmod>2020-08-02T22:53:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/doom/</loc>
+    <loc>https://hardtek.ro/tags/doom/</loc>
     <lastmod>2020-08-02T22:40:26+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</loc>
+    <loc>https://hardtek.ro/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</loc>
     <lastmod>2020-08-02T22:40:26+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/minecraft/</loc>
+    <loc>https://hardtek.ro/tags/minecraft/</loc>
     <lastmod>2020-08-02T22:40:26+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cum-sa-faci-screenshouri-cu-iphone/</loc>
+    <loc>https://hardtek.ro/post/cum-sa-faci-screenshouri-cu-iphone/</loc>
     <lastmod>2020-08-02T22:07:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/ios/</loc>
+    <loc>https://hardtek.ro/categories/ios/</loc>
     <lastmod>2020-08-02T22:07:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/screenshot/</loc>
+    <loc>https://hardtek.ro/tags/screenshot/</loc>
     <lastmod>2020-08-02T22:07:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lg/</loc>
+    <loc>https://hardtek.ro/tags/lg/</loc>
     <lastmod>2020-08-02T21:57:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</loc>
+    <loc>https://hardtek.ro/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</loc>
     <lastmod>2020-08-02T21:57:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/poze-cu-noul-procesor-a14-pentru-noile-iphoe-apar-pe-twiter/</loc>
+    <loc>https://hardtek.ro/post/poze-cu-noul-procesor-a14-pentru-noile-iphoe-apar-pe-twiter/</loc>
     <lastmod>2020-08-02T20:19:09+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://hardtek.ro/about/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/archives/</loc>
+    <loc>https://hardtek.ro/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   

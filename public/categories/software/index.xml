@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on HardTek - Tek La Greu</title>
-    <link>/categories/software/</link>
+    <link>https://hardtek.ro/categories/software/</link>
     <description>Recent content in Software on HardTek - Tek La Greu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
     <lastBuildDate>Mon, 03 Aug 2020 13:43:25 +0300</lastBuildDate>
     
-	<atom:link href="/categories/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hardtek.ro/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Noul Firefox pentru Android, dupa mai bine de 1 an de teste</title>
-      <link>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</link>
+      <link>https://hardtek.ro/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</link>
       <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
       
-      <guid>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</guid>
+      <guid>https://hardtek.ro/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</guid>
       <description>Mozilla a lucrat de mai bine de un an la un nou browser pentru Android, numit „Fenix„.
 Desi e versiunea finala, nu se simte ca varianta finala. Singurul motiv pentru asta este ca desi pentru Firefox sunt nenumarate addon-uri si extensii, doar cateva merg, doar cele native.
 Iata o lista completa:

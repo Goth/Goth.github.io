@@ -2,81 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HardTek - Tek La Greu</title>
-    <link>/post/</link>
+    <link>https://hardtek.ro/post/</link>
     <description>Recent content in Posts on HardTek - Tek La Greu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 14:27:34 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 13:21:14 +0300</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hardtek.ro/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>PC-urile cu Windows 10 vor putea lansa aplicatii Android de pe telefoanele Samsung</title>
+      <link>https://hardtek.ro/post/pc-urile-cu-windows-10-vor-putea-lansa-aplicatii-android-de-pe-telefoanele-samsung/</link>
+      <pubDate>Thu, 06 Aug 2020 13:21:14 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/post/pc-urile-cu-windows-10-vor-putea-lansa-aplicatii-android-de-pe-telefoanele-samsung/</guid>
+      <description>Daca detii un model mai nou de telefon Samsung, e si mai bine pentru tine daca ai Windows 10. microsoft a anuntat miercuri o noua functie ce va permite utilizatorilor sa acceseze aplicatiile din telefon direct pe PC.
+Functia noua este parte dintr-un update si va functiona pe o varietate de modele Samsung Galaxy. Iata o lista :
+ Samsung Galaxy Note 9 Samsung Galaxy S9 Samsung Galaxy S9+ Samsung Galaxy Note10 Samsung Galaxy Note10+ Samsung Galaxy Note10 Lite Samsung Galaxy Fold Samsung Galaxy S10 Samsung Galaxy S10+ Samsung Galaxy S10 Lite Samsung Galaxy S10e Samsung Galaxy A8s Samsung Galaxy A30s Samsung Galaxy A31 Samsung Galaxy A40 Samsung Galaxy A41 Samsung Galaxy A50 Samsung Galaxy A50s Samsung Galaxy A51 Samsung Galaxy A60 Samsung Galaxy A70 Samsung Galaxy A70s Samsung Galaxy A71 Samsung Galaxy A71 5G Samsung Galaxy A80 Samsung Galaxy A90s Samsung Galaxy A90 5G Samsung Galaxy S20 Samsung Galaxy S20+ Samsung Galaxy S20 Ultra Samsung Galaxy Fold Samsung Galaxy XCover Pro Samsung Galaxy Z Flip Samsung Galaxy Note 20 Samsung Galaxy Note 20 Ultra  Microsoft spune ca utilizatorii nici nu trebuie sa se logheze in anumite aplicatii daca deja s-au folosit pe telefon si poti fi chiar puse la aplicatii favorite, ceea ce este mai conveninent ca pot fi accesate mai usor.</description>
+    </item>
+    
+    <item>
       <title>Preturi pentru noile Macbook cu procesoare Arm</title>
-      <link>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</link>
+      <link>https://hardtek.ro/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</link>
       <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
       
-      <guid>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</guid>
+      <guid>https://hardtek.ro/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</guid>
       <description>Am avut o mica dezbatede pe grupul de Facebook Hackintosh Romania despre noile MacBook-uri care vor avea noile procesoare custom facute de Apple si conform zvonurilor se pare chiar asa va fi : noile MacBook-uri vor avea preturi mai mici, cu 200 – 300 dolari mai mici, depinde de model.
 Conform celor spuse pe Twitter primul MacBook cu procesor ARM va costa 799$ si modelul de 13″ MacBook Pro care probabil va avea tot procesor Apple va fi 1,099$.</description>
     </item>
     
     <item>
       <title>Monstrul fara ventilatoare de la Noctua amanat</title>
-      <link>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</link>
+      <link>https://hardtek.ro/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</link>
       <pubDate>Mon, 03 Aug 2020 14:22:41 +0300</pubDate>
       
-      <guid>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</guid>
+      <guid>https://hardtek.ro/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</guid>
       <description>Anul trecut la Computex, Noctua a aratat un cooler masiv cu racire pasiva. Produsul trebuia sa se lanseze undeva in 2020 dar tinad cont de pandemie, s-a amanat pentru 2021.
 Desi este destinat procesoarelor high-end, sunt extrem de curios de performante, si e de inteles daca s-a amanat lansarea si din cauza ca Noctua vrea ca acest cooler care va scoate 0 decibeli sa fie perfect din toate punctele de vedere.</description>
     </item>
     
     <item>
       <title>Facebook isi face griji ca iOS 14 va dauna in castigul facut din urma reclamelor</title>
-      <link>/post/facebook-isi-face-griji-ca-ios-14-va-dauna-in-castigul-facut-din-urma-reclamelor/</link>
+      <link>https://hardtek.ro/post/facebook-isi-face-griji-ca-ios-14-va-dauna-in-castigul-facut-din-urma-reclamelor/</link>
       <pubDate>Mon, 03 Aug 2020 14:17:39 +0300</pubDate>
       
-      <guid>/post/facebook-isi-face-griji-ca-ios-14-va-dauna-in-castigul-facut-din-urma-reclamelor/</guid>
+      <guid>https://hardtek.ro/post/facebook-isi-face-griji-ca-ios-14-va-dauna-in-castigul-facut-din-urma-reclamelor/</guid>
       <description>iOS 14 introduce o serie noua de setari care le permite utilizatorilor sa controleze fiecare aplicatie in parte, incluziv ce notificari sunt permise si ce aplicatii pot urmarii activitatile utilizatorului. Cu alte cuvinte Facebook vrea sa vada si sa stie activitatea ta, sa aiba acces la viata ta si la intimitatea ta.
 In urma activitatii tale pe telefon, Facebook iti recomanda reclame. Cum se traduce asta? Tu daca esti interesat de o pereche de ochelari de soare, si cauti online sau ai o conversatie cu cineva pe Facebook despre ochelari de soare, Facebook inregistreaza asta si iti va arata reclame cu ochelari de soare, tradus si mai adanc, inseamna ca Facebook vinde aceasta informatie celor care platesc pentru reclame si reclamele lor te vor invada din 2 in 2 minute petrecute pe Facebook.</description>
     </item>
     
     <item>
       <title>Nu mai fiti gelosi pe iMessage, Google Chat e aproape la fel dar are o mare problema</title>
-      <link>/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</link>
+      <link>https://hardtek.ro/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</link>
       <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
       
-      <guid>/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</guid>
+      <guid>https://hardtek.ro/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</guid>
       <description>Cand vine vorba sa intrebe pe orice detinator de iPhone care sunt aplicatiile preferate, iMessage mereu va fi pe lista din cauza beneficiilor pe care le are, chat pentru grupuri, poti trimite si primi diferite fisiere, mesagerie prin Wi-Fi, poze in rezolutie maxima fara calitate deterioarata.
 Dar Google Chat recupereaza la acest capitol, saptamana trecuta au adaugat reactii in conversatii si cea mai noua chestie introdusa, la fel ca in iMessage, abilitatea de a trimite mesaje catre un calculator.</description>
     </item>
     
     <item>
       <title>AMD nu se opreste, procesoare noi pe 5nm</title>
-      <link>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</link>
+      <link>https://hardtek.ro/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</link>
       <pubDate>Mon, 03 Aug 2020 14:00:38 +0300</pubDate>
       
-      <guid>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</guid>
+      <guid>https://hardtek.ro/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</guid>
       <description>AMD efectiv calca Intel in picioare. Dupa ce Intel a amanat trecerea pe 7nm pana in 2022 sau chiar 2023, AMD indirect a confirmat trecerea pe 5nm in 2021, undeva in ultimul trimestru. Deci in momentul in care Intel va trece la 7nm, ce foloseste AMD acum, AMD deja va fi pe o tehnologie mai noua si mai eficenta decat Intel.
 Odata cu castigurile facute in trimestrul al doilea, AMD a prezentat si planurile pentru urmatorii 2 ani, atat la noua serie Epyc Gen 4 pentru servere cat si restul procesoarelor pe care le-au catalogat intr-un &amp;ldquo;Advanced Node&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Mac OS 8 este acum aplicatie si poate fi instalat in Mac OS, Windows si Linux</title>
-      <link>/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</link>
+      <link>https://hardtek.ro/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</link>
       <pubDate>Mon, 03 Aug 2020 13:56:01 +0300</pubDate>
       
-      <guid>/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</guid>
+      <guid>https://hardtek.ro/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</guid>
       <description>Developerul aplicatiei Slack, Felix Rieseberg, a transformat Mac OS 8.1 intr-o aplicatie ce poate fi folosita pe orice sistem de operare. Dupa ce in 2018 a transformat Windows 95 intr-o aplicatie, acum s-a dus pana in 1991 cand s-a lansat Mac OS 8 Quadra facuta cu aplicatia Electron.
 macintosh.js app este scrisa in intregime in Java si foloseste o masina virtuala pentru a emula Macintosh Quadra 900 cu Motorola CPU facut de Apple.</description>
     </item>
     
     <item>
       <title>Preturi noi pentru iPhone 12 - e de rau</title>
-      <link>/post/preturi-noi-pentru-iphone12-e-de-rau/</link>
+      <link>https://hardtek.ro/post/preturi-noi-pentru-iphone12-e-de-rau/</link>
       <pubDate>Mon, 03 Aug 2020 13:51:07 +0300</pubDate>
       
-      <guid>/post/preturi-noi-pentru-iphone12-e-de-rau/</guid>
+      <guid>https://hardtek.ro/post/preturi-noi-pentru-iphone12-e-de-rau/</guid>
       <description>Pe Twitter s-au afisat preturi noi pentru noile modele iPhone 12. Si sunt cu 50$ mai mult decat se astepta lumea initial.
 Binenteles nu e nici un pret batut in cuie dar cand apar astfet de stiri, mai ales ca nu mai e asa mult pana la data lansarii, trebuie sa ne impacam cu ideea ca aproximativ acestea vor fi preturile.
 Cu toate aceste schimbari de pret, modelul de „buget„, de 5.</description>
@@ -84,10 +95,10 @@ Cu toate aceste schimbari de pret, modelul de „buget„, de 5.</description>
     
     <item>
       <title>Noul Firefox pentru Android, dupa mai bine de 1 an de teste</title>
-      <link>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</link>
+      <link>https://hardtek.ro/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</link>
       <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
       
-      <guid>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</guid>
+      <guid>https://hardtek.ro/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</guid>
       <description>Mozilla a lucrat de mai bine de un an la un nou browser pentru Android, numit „Fenix„.
 Desi e versiunea finala, nu se simte ca varianta finala. Singurul motiv pentru asta este ca desi pentru Firefox sunt nenumarate addon-uri si extensii, doar cateva merg, doar cele native.
 Iata o lista completa:
@@ -96,20 +107,20 @@ uBlock Origin Dark Reader HTTPS Everywhere Privacy Badger NoScript Security Suit
     
     <item>
       <title>9 sfaturi pentru a avea o super performanta in gaming</title>
-      <link>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</link>
+      <link>https://hardtek.ro/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</link>
       <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
       
-      <guid>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</guid>
+      <guid>https://hardtek.ro/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</guid>
       <description>Cand vine vorba de jocuri, FPS-urile sunt cele mai importante, nici cand te suna mama nu mai conteaza, daca esti prins intrun meci intens. Nu conteaza ce setup ai, chiar si cele mai optimizate titluri vor avea de suferit daca nu optimizezi PC-ul pentru gaming.
   Update la driverele de la paca video   Daca vrei sa mergi intr-o batalie sau pe un traseu de curse sau chiar in spatiu, asigura-te ca ai ultimele drivere Nvidia sau AMD.</description>
     </item>
     
     <item>
       <title>In China vanzarea iPhone-urilor a crescut cu 225%</title>
-      <link>/post/in-china-vanzarea-iphoneurilor-a-crescut-cu-225/</link>
+      <link>https://hardtek.ro/post/in-china-vanzarea-iphoneurilor-a-crescut-cu-225/</link>
       <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
       
-      <guid>/post/in-china-vanzarea-iphoneurilor-a-crescut-cu-225/</guid>
+      <guid>https://hardtek.ro/post/in-china-vanzarea-iphoneurilor-a-crescut-cu-225/</guid>
       <description>Aceasta crestere s-a inregistrat in al doilea trimestru, astfel Apple a ajuns pe primul loc la vanzarea de telefoane in China.
 iPhone SE 2020 fiind ieftin a castigat popularitate extrem de repede, la care s-au adaugat si cateva campanii agresive cu discount-uri majore.
 Din toata seria iPhone 11, Apple a vandut din Aprilie pana in Iunie 7,4 milioane de unitati, cu o crestere de 32% de la an la an. In comparatie producatorul chinez Huawei a vandut in aceeasi perioada 36,6 milioane de unitati, cu o crestere de 14% fata de anul precedent.</description>
@@ -117,20 +128,20 @@ Din toata seria iPhone 11, Apple a vandut din Aprilie pana in Iunie 7,4 milioane
     
     <item>
       <title>Iphone 12 va spulbera Samsung Note 20, iata de ce</title>
-      <link>/post/iphone-12-va-spulbera-samsung-note-20-iata-de-ce/</link>
+      <link>https://hardtek.ro/post/iphone-12-va-spulbera-samsung-note-20-iata-de-ce/</link>
       <pubDate>Sun, 02 Aug 2020 23:14:44 +0300</pubDate>
       
-      <guid>/post/iphone-12-va-spulbera-samsung-note-20-iata-de-ce/</guid>
+      <guid>https://hardtek.ro/post/iphone-12-va-spulbera-samsung-note-20-iata-de-ce/</guid>
       <description>Din ce in ce mai multe stiri apar despre iPhone 12, azi au aparut imagini cu noile procesoare si memoria RAM din telefoanele care se vor lansa in septembrie in acest an. Dar asta nu e tot.
 Noul procesor de la Apple ar trebuie sa faca ture in jurul procesoarelor Snapdragon conform specificatiilor si prin faptul ca este pe tehnologia 5nm, ceea ce le face cu aproximativ 15% mai rapide decat cele de pe iPhone 11 Pro si vor fi cu 30% mai eficiente.</description>
     </item>
     
     <item>
       <title>Intel lanseaza Core I9-10850K</title>
-      <link>/post/intel-lanseaza-core-i9-10850k/</link>
+      <link>https://hardtek.ro/post/intel-lanseaza-core-i9-10850k/</link>
       <pubDate>Sun, 02 Aug 2020 23:09:57 +0300</pubDate>
       
-      <guid>/post/intel-lanseaza-core-i9-10850k/</guid>
+      <guid>https://hardtek.ro/post/intel-lanseaza-core-i9-10850k/</guid>
       <description>Pe hartie Core i9-10850K este la 97% din performanta lui i9-10900K dar este mai iefitin.
 Dupa ca Intel a anuntat ca vor amana pana in 2022 noile procesoare pe 7nm, anunt care nu le-a adus nimic bun si care duce compania intr-o continua descendenta la bursa, s-au decis sa mai lanseze un procesor de a 10-a generatie, Core i9-10850K.
 Core i9-10850K este cu 100Mhz mai lent decat i9-10900K si cu 35$ mai ieftin dar totusi ai un procesor cu 10 nuclee si 20 de fire de executie (threads) si desi este mai lent cu 100Mhz, cei 35$ se pot duce la un upgrade pentru alte piese.</description>
@@ -138,20 +149,20 @@ Core i9-10850K este cu 100Mhz mai lent decat i9-10900K si cu 35$ mai ieftin dar 
     
     <item>
       <title>Top 10 cele mai piratate filme</title>
-      <link>/post/top-10-cele-mai-piratatei-filme/</link>
+      <link>https://hardtek.ro/post/top-10-cele-mai-piratatei-filme/</link>
       <pubDate>Sun, 02 Aug 2020 22:53:07 +0300</pubDate>
       
-      <guid>/post/top-10-cele-mai-piratatei-filme/</guid>
+      <guid>https://hardtek.ro/post/top-10-cele-mai-piratatei-filme/</guid>
       <description>TorrentFreak are o lista cu cele mai piratate filme din ultimul timp si este o lista impresionanta. Personal am apucat sa vizionez cateva din aceste filme pe diferitele platforme de video streaming ca Netflix, Apple TV sau HBO.
  SCOOB!      Hamilton      The Outpost      COMA      The Rental      Palm Springs      The Kissing Booth 2      The Silencing      Te Old Guard       GREYHOUND     Voi pe care l-ati vizionat recent?</description>
     </item>
     
     <item>
       <title>In Minecraft poti juca Doom pe un PC cu Windows 95</title>
-      <link>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</link>
+      <link>https://hardtek.ro/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</link>
       <pubDate>Sun, 02 Aug 2020 22:40:26 +0300</pubDate>
       
-      <guid>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</guid>
+      <guid>https://hardtek.ro/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</guid>
       <description>Dar poate rula Crysis? Asta este intrebarea cea mai folosita pe net referitoare la acest video.
 Un nou mod in Minecraft permite jucatorilor sa acceseze un PC care ruleaza pe Windows 95 ce are DOOM 3D instalat.
 Reddit
@@ -160,10 +171,10 @@ Modul foloseste VirtualBox, soft gratuit si open source, ce poate fi folosit pen
     
     <item>
       <title>Cum sa faci screenshot-uri cu iPhone</title>
-      <link>/post/cum-sa-faci-screenshouri-cu-iphone/</link>
+      <link>https://hardtek.ro/post/cum-sa-faci-screenshouri-cu-iphone/</link>
       <pubDate>Sun, 02 Aug 2020 22:07:00 +0300</pubDate>
       
-      <guid>/post/cum-sa-faci-screenshouri-cu-iphone/</guid>
+      <guid>https://hardtek.ro/post/cum-sa-faci-screenshouri-cu-iphone/</guid>
       <description>Screenshot-urile sunt grozave, poti explica bunicului printr-o poza cum sa poat folosi o anumita aplicatie din telefon sau sa raportezi o eroare companiei la care lucrezi.
 Daca folosesti un iPhone vei vedea ca este destul de simplu.
 Apasa butonul din lateral si Volum Sus in acelasi timp (Nota: daca ai un iPhone cu butonul Home, sub ecran, apasa Home si butonul lateral in acelasi timp).
@@ -172,10 +183,10 @@ O imagine mai mica, un thumbnail va aparea in coltul din stanga jos.</descriptio
     
     <item>
       <title>Lg va furniza 20 milioane de display-uri OLED pentru iPhone 12</title>
-      <link>/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</link>
+      <link>https://hardtek.ro/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</link>
       <pubDate>Sun, 02 Aug 2020 21:57:52 +0300</pubDate>
       
-      <guid>/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</guid>
+      <guid>https://hardtek.ro/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</guid>
       <description>De fapt sunt pentru modelele de 6.1″, dar chiar si asa dintre LG si Samsung, LG va fi furnizorul cel mai castigat la aceasta afacere.
 Dintre cele 4 modele care se vor lansa anul acesta, Samsung ca furniza display-uri pentru modele de 5.4″ dar si pentru cel de 6.7″, varianta pro.
 In total vor fi aproximativ 30-35 milioane de display-uri pentru modelul de buget de 5.4″ si undeva la 15-20 milioane pentru modelele pro.</description>
@@ -183,10 +194,10 @@ In total vor fi aproximativ 30-35 milioane de display-uri pentru modelul de buge
     
     <item>
       <title>Poze cu noul procesor A14 pentru noile iPhone apar pe twitter</title>
-      <link>/post/poze-cu-noul-procesor-a14-pentru-noile-iphoe-apar-pe-twiter/</link>
+      <link>https://hardtek.ro/post/poze-cu-noul-procesor-a14-pentru-noile-iphoe-apar-pe-twiter/</link>
       <pubDate>Sun, 02 Aug 2020 20:19:09 +0300</pubDate>
       
-      <guid>/post/poze-cu-noul-procesor-a14-pentru-noile-iphoe-apar-pe-twiter/</guid>
+      <guid>https://hardtek.ro/post/poze-cu-noul-procesor-a14-pentru-noile-iphoe-apar-pe-twiter/</guid>
       <description>Mr. White, un leaker de pe Twitter care cateodata distribuie informatii corecte despre planurile viitoare Apple alaturi de poze, tocmai a distribuit o serie de poze cu memoria RAM care este situata pe noul procesor.
 Nu se vad prea multe informatii, doar o data gravata, si anume 2016 care corespunde cu saptamana 16 din 2020, asta inseamna ca data de fabricatie este aprilie 2020.
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;</description>

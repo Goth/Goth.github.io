@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HardTek - Tek La Greu</title>
-    <link>/categories/</link>
+    <link>https://hardtek.ro/categories/</link>
     <description>Recent content in Categories on HardTek - Tek La Greu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 14:27:34 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 13:21:14 +0300</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hardtek.ro/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Apple</title>
-      <link>/categories/apple/</link>
-      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
-      
-      <guid>/categories/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware</title>
-      <link>/categories/hardware/</link>
-      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
-      
-      <guid>/categories/hardware/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Android</title>
-      <link>/categories/android/</link>
-      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
+      <link>https://hardtek.ro/categories/android/</link>
+      <pubDate>Thu, 06 Aug 2020 13:21:14 +0300</pubDate>
       
-      <guid>/categories/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/categories/software/</link>
-      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
-      
-      <guid>/categories/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jocuri</title>
-      <link>/categories/jocuri/</link>
-      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
-      
-      <guid>/categories/jocuri/</guid>
+      <guid>https://hardtek.ro/categories/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>/categories/windows/</link>
+      <link>https://hardtek.ro/categories/windows/</link>
+      <pubDate>Thu, 06 Aug 2020 13:21:14 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>https://hardtek.ro/categories/apple/</link>
+      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/categories/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://hardtek.ro/categories/hardware/</link>
+      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/categories/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://hardtek.ro/categories/software/</link>
+      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jocuri</title>
+      <link>https://hardtek.ro/categories/jocuri/</link>
       <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
       
-      <guid>/categories/windows/</guid>
+      <guid>https://hardtek.ro/categories/jocuri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intel</title>
-      <link>/categories/intel/</link>
+      <link>https://hardtek.ro/categories/intel/</link>
       <pubDate>Sun, 02 Aug 2020 23:09:57 +0300</pubDate>
       
-      <guid>/categories/intel/</guid>
+      <guid>https://hardtek.ro/categories/intel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filme</title>
-      <link>/categories/filme/</link>
+      <link>https://hardtek.ro/categories/filme/</link>
       <pubDate>Sun, 02 Aug 2020 22:53:07 +0300</pubDate>
       
-      <guid>/categories/filme/</guid>
+      <guid>https://hardtek.ro/categories/filme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iOS</title>
-      <link>/categories/ios/</link>
+      <link>https://hardtek.ro/categories/ios/</link>
       <pubDate>Sun, 02 Aug 2020 22:07:00 +0300</pubDate>
       
-      <guid>/categories/ios/</guid>
+      <guid>https://hardtek.ro/categories/ios/</guid>
       <description></description>
     </item>
     

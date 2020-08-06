@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>android on HardTek - Tek La Greu</title>
-    <link>/tags/android/</link>
+    <link>https://hardtek.ro/tags/android/</link>
     <description>Recent content in android on HardTek - Tek La Greu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 13:43:25 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 13:21:14 +0300</lastBuildDate>
     
-	<atom:link href="/tags/android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hardtek.ro/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>PC-urile cu Windows 10 vor putea lansa aplicatii Android de pe telefoanele Samsung</title>
+      <link>https://hardtek.ro/post/pc-urile-cu-windows-10-vor-putea-lansa-aplicatii-android-de-pe-telefoanele-samsung/</link>
+      <pubDate>Thu, 06 Aug 2020 13:21:14 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/post/pc-urile-cu-windows-10-vor-putea-lansa-aplicatii-android-de-pe-telefoanele-samsung/</guid>
+      <description>Daca detii un model mai nou de telefon Samsung, e si mai bine pentru tine daca ai Windows 10. microsoft a anuntat miercuri o noua functie ce va permite utilizatorilor sa acceseze aplicatiile din telefon direct pe PC.
+Functia noua este parte dintr-un update si va functiona pe o varietate de modele Samsung Galaxy. Iata o lista :
+ Samsung Galaxy Note 9 Samsung Galaxy S9 Samsung Galaxy S9+ Samsung Galaxy Note10 Samsung Galaxy Note10+ Samsung Galaxy Note10 Lite Samsung Galaxy Fold Samsung Galaxy S10 Samsung Galaxy S10+ Samsung Galaxy S10 Lite Samsung Galaxy S10e Samsung Galaxy A8s Samsung Galaxy A30s Samsung Galaxy A31 Samsung Galaxy A40 Samsung Galaxy A41 Samsung Galaxy A50 Samsung Galaxy A50s Samsung Galaxy A51 Samsung Galaxy A60 Samsung Galaxy A70 Samsung Galaxy A70s Samsung Galaxy A71 Samsung Galaxy A71 5G Samsung Galaxy A80 Samsung Galaxy A90s Samsung Galaxy A90 5G Samsung Galaxy S20 Samsung Galaxy S20+ Samsung Galaxy S20 Ultra Samsung Galaxy Fold Samsung Galaxy XCover Pro Samsung Galaxy Z Flip Samsung Galaxy Note 20 Samsung Galaxy Note 20 Ultra  Microsoft spune ca utilizatorii nici nu trebuie sa se logheze in anumite aplicatii daca deja s-au folosit pe telefon si poti fi chiar puse la aplicatii favorite, ceea ce este mai conveninent ca pot fi accesate mai usor.</description>
+    </item>
+    
+    <item>
       <title>Noul Firefox pentru Android, dupa mai bine de 1 an de teste</title>
-      <link>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</link>
+      <link>https://hardtek.ro/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</link>
       <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
       
-      <guid>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</guid>
+      <guid>https://hardtek.ro/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</guid>
       <description>Mozilla a lucrat de mai bine de un an la un nou browser pentru Android, numit „Fenix„.
 Desi e versiunea finala, nu se simte ca varianta finala. Singurul motiv pentru asta este ca desi pentru Firefox sunt nenumarate addon-uri si extensii, doar cateva merg, doar cele native.
 Iata o lista completa:

@@ -2,327 +2,336 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HardTek - Tek La Greu</title>
-    <link>/tags/</link>
+    <link>https://hardtek.ro/tags/</link>
     <description>Recent content in Tags on HardTek - Tek La Greu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 14:27:34 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 13:21:14 +0300</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hardtek.ro/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Macbook</title>
-      <link>/tags/macbook/</link>
-      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
-      
-      <guid>/tags/macbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preturi</title>
-      <link>/tags/preturi/</link>
-      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
-      
-      <guid>/tags/preturi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cooler</title>
-      <link>/tags/cooler/</link>
-      <pubDate>Mon, 03 Aug 2020 14:22:41 +0300</pubDate>
-      
-      <guid>/tags/cooler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noctua</title>
-      <link>/tags/noctua/</link>
-      <pubDate>Mon, 03 Aug 2020 14:22:41 +0300</pubDate>
-      
-      <guid>/tags/noctua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Facebook</title>
-      <link>/tags/facebook/</link>
-      <pubDate>Mon, 03 Aug 2020 14:17:39 +0300</pubDate>
-      
-      <guid>/tags/facebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>/tags/ios/</link>
-      <pubDate>Mon, 03 Aug 2020 14:17:39 +0300</pubDate>
-      
-      <guid>/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chat</title>
-      <link>/tags/chat/</link>
-      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
-      
-      <guid>/tags/chat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>/tags/google/</link>
-      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
-      
-      <guid>/tags/google/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iMessage</title>
-      <link>/tags/imessage/</link>
-      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
-      
-      <guid>/tags/imessage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>messenger</title>
-      <link>/tags/messenger/</link>
-      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
-      
-      <guid>/tags/messenger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMD</title>
-      <link>/tags/amd/</link>
-      <pubDate>Mon, 03 Aug 2020 14:00:38 +0300</pubDate>
-      
-      <guid>/tags/amd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CPU</title>
-      <link>/tags/cpu/</link>
-      <pubDate>Mon, 03 Aug 2020 14:00:38 +0300</pubDate>
-      
-      <guid>/tags/cpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mac os</title>
-      <link>/tags/mac-os/</link>
-      <pubDate>Mon, 03 Aug 2020 13:56:01 +0300</pubDate>
-      
-      <guid>/tags/mac-os/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iPhone</title>
-      <link>/tags/iphone/</link>
-      <pubDate>Mon, 03 Aug 2020 13:51:07 +0300</pubDate>
-      
-      <guid>/tags/iphone/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>android</title>
-      <link>/tags/android/</link>
-      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
+      <link>https://hardtek.ro/tags/android/</link>
+      <pubDate>Thu, 06 Aug 2020 13:21:14 +0300</pubDate>
       
-      <guid>/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>browser</title>
-      <link>/tags/browser/</link>
-      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
-      
-      <guid>/tags/browser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>firefox</title>
-      <link>/tags/firefox/</link>
-      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
-      
-      <guid>/tags/firefox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gaming</title>
-      <link>/tags/gaming/</link>
-      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
-      
-      <guid>/tags/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimizare</title>
-      <link>/tags/optimizare/</link>
-      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
-      
-      <guid>/tags/optimizare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>performanta</title>
-      <link>/tags/performanta/</link>
-      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
-      
-      <guid>/tags/performanta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5G</title>
-      <link>/tags/5g/</link>
-      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
-      
-      <guid>/tags/5g/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apple</title>
-      <link>/tags/apple/</link>
-      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
-      
-      <guid>/tags/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>huawei</title>
-      <link>/tags/huawei/</link>
-      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
-      
-      <guid>/tags/huawei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oppo</title>
-      <link>/tags/oppo/</link>
-      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
-      
-      <guid>/tags/oppo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vivo</title>
-      <link>/tags/vivo/</link>
-      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
-      
-      <guid>/tags/vivo/</guid>
+      <guid>https://hardtek.ro/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samsung</title>
-      <link>/tags/samsung/</link>
-      <pubDate>Sun, 02 Aug 2020 23:14:44 +0300</pubDate>
+      <link>https://hardtek.ro/tags/samsung/</link>
+      <pubDate>Thu, 06 Aug 2020 13:21:14 +0300</pubDate>
       
-      <guid>/tags/samsung/</guid>
+      <guid>https://hardtek.ro/tags/samsung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://hardtek.ro/tags/windows/</link>
+      <pubDate>Thu, 06 Aug 2020 13:21:14 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macbook</title>
+      <link>https://hardtek.ro/tags/macbook/</link>
+      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/macbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preturi</title>
+      <link>https://hardtek.ro/tags/preturi/</link>
+      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/preturi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cooler</title>
+      <link>https://hardtek.ro/tags/cooler/</link>
+      <pubDate>Mon, 03 Aug 2020 14:22:41 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/cooler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noctua</title>
+      <link>https://hardtek.ro/tags/noctua/</link>
+      <pubDate>Mon, 03 Aug 2020 14:22:41 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/noctua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook</title>
+      <link>https://hardtek.ro/tags/facebook/</link>
+      <pubDate>Mon, 03 Aug 2020 14:17:39 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://hardtek.ro/tags/ios/</link>
+      <pubDate>Mon, 03 Aug 2020 14:17:39 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chat</title>
+      <link>https://hardtek.ro/tags/chat/</link>
+      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/chat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://hardtek.ro/tags/google/</link>
+      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iMessage</title>
+      <link>https://hardtek.ro/tags/imessage/</link>
+      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/imessage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>messenger</title>
+      <link>https://hardtek.ro/tags/messenger/</link>
+      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/messenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMD</title>
+      <link>https://hardtek.ro/tags/amd/</link>
+      <pubDate>Mon, 03 Aug 2020 14:00:38 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/amd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPU</title>
+      <link>https://hardtek.ro/tags/cpu/</link>
+      <pubDate>Mon, 03 Aug 2020 14:00:38 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/cpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac os</title>
+      <link>https://hardtek.ro/tags/mac-os/</link>
+      <pubDate>Mon, 03 Aug 2020 13:56:01 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/mac-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone</title>
+      <link>https://hardtek.ro/tags/iphone/</link>
+      <pubDate>Mon, 03 Aug 2020 13:51:07 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>browser</title>
+      <link>https://hardtek.ro/tags/browser/</link>
+      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firefox</title>
+      <link>https://hardtek.ro/tags/firefox/</link>
+      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>https://hardtek.ro/tags/gaming/</link>
+      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimizare</title>
+      <link>https://hardtek.ro/tags/optimizare/</link>
+      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/optimizare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performanta</title>
+      <link>https://hardtek.ro/tags/performanta/</link>
+      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/performanta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5G</title>
+      <link>https://hardtek.ro/tags/5g/</link>
+      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/5g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>https://hardtek.ro/tags/apple/</link>
+      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>huawei</title>
+      <link>https://hardtek.ro/tags/huawei/</link>
+      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/huawei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oppo</title>
+      <link>https://hardtek.ro/tags/oppo/</link>
+      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/oppo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vivo</title>
+      <link>https://hardtek.ro/tags/vivo/</link>
+      <pubDate>Sun, 02 Aug 2020 23:25:53 +0300</pubDate>
+      
+      <guid>https://hardtek.ro/tags/vivo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intel</title>
-      <link>/tags/intel/</link>
+      <link>https://hardtek.ro/tags/intel/</link>
       <pubDate>Sun, 02 Aug 2020 23:09:57 +0300</pubDate>
       
-      <guid>/tags/intel/</guid>
+      <guid>https://hardtek.ro/tags/intel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filme</title>
-      <link>/tags/filme/</link>
+      <link>https://hardtek.ro/tags/filme/</link>
       <pubDate>Sun, 02 Aug 2020 22:53:07 +0300</pubDate>
       
-      <guid>/tags/filme/</guid>
+      <guid>https://hardtek.ro/tags/filme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>piraterie</title>
-      <link>/tags/piraterie/</link>
+      <link>https://hardtek.ro/tags/piraterie/</link>
       <pubDate>Sun, 02 Aug 2020 22:53:07 +0300</pubDate>
       
-      <guid>/tags/piraterie/</guid>
+      <guid>https://hardtek.ro/tags/piraterie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>top 10</title>
-      <link>/tags/top-10/</link>
+      <link>https://hardtek.ro/tags/top-10/</link>
       <pubDate>Sun, 02 Aug 2020 22:53:07 +0300</pubDate>
       
-      <guid>/tags/top-10/</guid>
+      <guid>https://hardtek.ro/tags/top-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>torrent</title>
-      <link>/tags/torrent/</link>
+      <link>https://hardtek.ro/tags/torrent/</link>
       <pubDate>Sun, 02 Aug 2020 22:53:07 +0300</pubDate>
       
-      <guid>/tags/torrent/</guid>
+      <guid>https://hardtek.ro/tags/torrent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Doom</title>
-      <link>/tags/doom/</link>
+      <link>https://hardtek.ro/tags/doom/</link>
       <pubDate>Sun, 02 Aug 2020 22:40:26 +0300</pubDate>
       
-      <guid>/tags/doom/</guid>
+      <guid>https://hardtek.ro/tags/doom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minecraft</title>
-      <link>/tags/minecraft/</link>
+      <link>https://hardtek.ro/tags/minecraft/</link>
       <pubDate>Sun, 02 Aug 2020 22:40:26 +0300</pubDate>
       
-      <guid>/tags/minecraft/</guid>
+      <guid>https://hardtek.ro/tags/minecraft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>screenshot</title>
-      <link>/tags/screenshot/</link>
+      <link>https://hardtek.ro/tags/screenshot/</link>
       <pubDate>Sun, 02 Aug 2020 22:07:00 +0300</pubDate>
       
-      <guid>/tags/screenshot/</guid>
+      <guid>https://hardtek.ro/tags/screenshot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LG</title>
-      <link>/tags/lg/</link>
+      <link>https://hardtek.ro/tags/lg/</link>
       <pubDate>Sun, 02 Aug 2020 21:57:52 +0300</pubDate>
       
-      <guid>/tags/lg/</guid>
+      <guid>https://hardtek.ro/tags/lg/</guid>
       <description></description>
     </item>
     
