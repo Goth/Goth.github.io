@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on HardTek - Tek La Greu</title>
+    <link>/categories/hardware/</link>
+    <description>Recent content in Hardware on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 14:27:34 +0300</lastBuildDate>
+    
+	<atom:link href="/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preturi pentru noile Macbook cu procesoare Arm</title>
+      <link>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</link>
+      <pubDate>Mon, 03 Aug 2020 14:27:34 +0300</pubDate>
+      
+      <guid>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</guid>
+      <description>Am avut o mica dezbatede pe grupul de Facebook Hackintosh Romania despre noile MacBook-uri care vor avea noile procesoare custom facute de Apple si conform zvonurilor se pare chiar asa va fi : noile MacBook-uri vor avea preturi mai mici, cu 200 – 300 dolari mai mici, depinde de model.
+Conform celor spuse pe Twitter primul MacBook cu procesor ARM va costa 799$ si modelul de 13″ MacBook Pro care probabil va avea tot procesor Apple va fi 1,099$.</description>
+    </item>
+    
+    <item>
+      <title>Monstrul fara ventilatoare de la Noctua amanat</title>
+      <link>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</link>
+      <pubDate>Mon, 03 Aug 2020 14:22:41 +0300</pubDate>
+      
+      <guid>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</guid>
+      <description>Anul trecut la Computex, Noctua a aratat un cooler masiv cu racire pasiva. Produsul trebuia sa se lanseze undeva in 2020 dar tinad cont de pandemie, s-a amanat pentru 2021.
+Desi este destinat procesoarelor high-end, sunt extrem de curios de performante, si e de inteles daca s-a amanat lansarea si din cauza ca Noctua vrea ca acest cooler care va scoate 0 decibeli sa fie perfect din toate punctele de vedere.</description>
+    </item>
+    
+    <item>
+      <title>AMD nu se opreste, procesoare noi pe 5nm</title>
+      <link>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</link>
+      <pubDate>Mon, 03 Aug 2020 14:00:38 +0300</pubDate>
+      
+      <guid>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</guid>
+      <description>AMD efectiv calca Intel in picioare. Dupa ce Intel a amanat trecerea pe 7nm pana in 2022 sau chiar 2023, AMD indirect a confirmat trecerea pe 5nm in 2021, undeva in ultimul trimestru. Deci in momentul in care Intel va trece la 7nm, ce foloseste AMD acum, AMD deja va fi pe o tehnologie mai noua si mai eficenta decat Intel.
+Odata cu castigurile facute in trimestrul al doilea, AMD a prezentat si planurile pentru urmatorii 2 ani, atat la noua serie Epyc Gen 4 pentru servere cat si restul procesoarelor pe care le-au catalogat intr-un &amp;ldquo;Advanced Node&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Lg va furniza 20 milioane de display-uri OLED pentru iPhone 12</title>
+      <link>/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</link>
+      <pubDate>Sun, 02 Aug 2020 21:57:52 +0300</pubDate>
+      
+      <guid>/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</guid>
+      <description>De fapt sunt pentru modelele de 6.1″, dar chiar si asa dintre LG si Samsung, LG va fi furnizorul cel mai castigat la aceasta afacere.
+Dintre cele 4 modele care se vor lansa anul acesta, Samsung ca furniza display-uri pentru modele de 5.4″ dar si pentru cel de 6.7″, varianta pro.
+In total vor fi aproximativ 30-35 milioane de display-uri pentru modelul de buget de 5.4″ si undeva la 15-20 milioane pentru modelele pro.</description>
+    </item>
+    
+  </channel>
+</rss>

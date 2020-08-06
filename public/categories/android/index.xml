@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on HardTek - Tek La Greu</title>
+    <link>/categories/android/</link>
+    <description>Recent content in Android on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 14:07:37 +0300</lastBuildDate>
+    
+	<atom:link href="/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nu mai fiti gelosi pe iMessage, Google Chat e aproape la fel dar are o mare problema</title>
+      <link>/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</link>
+      <pubDate>Mon, 03 Aug 2020 14:07:37 +0300</pubDate>
+      
+      <guid>/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</guid>
+      <description>Cand vine vorba sa intrebe pe orice detinator de iPhone care sunt aplicatiile preferate, iMessage mereu va fi pe lista din cauza beneficiilor pe care le are, chat pentru grupuri, poti trimite si primi diferite fisiere, mesagerie prin Wi-Fi, poze in rezolutie maxima fara calitate deterioarata.
+Dar Google Chat recupereaza la acest capitol, saptamana trecuta au adaugat reactii in conversatii si cea mai noua chestie introdusa, la fel ca in iMessage, abilitatea de a trimite mesaje catre un calculator.</description>
+    </item>
+    
+    <item>
+      <title>Noul Firefox pentru Android, dupa mai bine de 1 an de teste</title>
+      <link>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</link>
+      <pubDate>Mon, 03 Aug 2020 13:43:25 +0300</pubDate>
+      
+      <guid>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</guid>
+      <description>Mozilla a lucrat de mai bine de un an la un nou browser pentru Android, numit „Fenix„.
+Desi e versiunea finala, nu se simte ca varianta finala. Singurul motiv pentru asta este ca desi pentru Firefox sunt nenumarate addon-uri si extensii, doar cateva merg, doar cele native.
+Iata o lista completa:
+uBlock Origin Dark Reader HTTPS Everywhere Privacy Badger NoScript Security Suite Decentraleyes Search by Image YouTube High Definition Privacy Possum  Chiar si asa, Mozilla a raspuns pe Twitter ca vor da drumul curand la celelate addon-uri.</description>
+    </item>
+    
+  </channel>
+</rss>

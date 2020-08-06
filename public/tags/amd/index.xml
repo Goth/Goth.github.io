@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMD on HardTek - Tek La Greu</title>
+    <link>/tags/amd/</link>
+    <description>Recent content in AMD on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 14:00:38 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/amd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AMD nu se opreste, procesoare noi pe 5nm</title>
+      <link>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</link>
+      <pubDate>Mon, 03 Aug 2020 14:00:38 +0300</pubDate>
+      
+      <guid>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</guid>
+      <description>AMD efectiv calca Intel in picioare. Dupa ce Intel a amanat trecerea pe 7nm pana in 2022 sau chiar 2023, AMD indirect a confirmat trecerea pe 5nm in 2021, undeva in ultimul trimestru. Deci in momentul in care Intel va trece la 7nm, ce foloseste AMD acum, AMD deja va fi pe o tehnologie mai noua si mai eficenta decat Intel.
+Odata cu castigurile facute in trimestrul al doilea, AMD a prezentat si planurile pentru urmatorii 2 ani, atat la noua serie Epyc Gen 4 pentru servere cat si restul procesoarelor pe care le-au catalogat intr-un &amp;ldquo;Advanced Node&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

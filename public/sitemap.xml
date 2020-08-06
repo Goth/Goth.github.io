@@ -3,25 +3,338 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hardtek.ro/about/</loc>
+    <loc>/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/apple/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/hardware/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/macbook/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/preturi/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/preturi-pentru-noile-macbook-cu-procesoare-arm/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-03T14:27:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cooler/</loc>
+    <lastmod>2020-08-03T14:22:41+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</loc>
+    <lastmod>2020-08-03T14:22:41+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/noctua/</loc>
+    <lastmod>2020-08-03T14:22:41+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/facebook/</loc>
+    <lastmod>2020-08-03T14:17:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/facebook-isi-face-griji-ca-ios-14-va-dauna-in-castigul-facut-din-urma-reclamelor/</loc>
+    <lastmod>2020-08-03T14:17:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ios/</loc>
+    <lastmod>2020-08-03T14:17:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/android/</loc>
+    <lastmod>2020-08-03T14:07:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chat/</loc>
+    <lastmod>2020-08-03T14:07:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/google/</loc>
+    <lastmod>2020-08-03T14:07:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/imessage/</loc>
+    <lastmod>2020-08-03T14:07:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/messenger/</loc>
+    <lastmod>2020-08-03T14:07:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nu-mai-fiti-gelosi-pe-imessage-google-chat-e-aproape-la-fel-dar-are-o-mare-problema/</loc>
+    <lastmod>2020-08-03T14:07:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/amd/</loc>
+    <lastmod>2020-08-03T14:00:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/amd-nu-se-opreste-procesoare-noi-pe-5nm/</loc>
+    <lastmod>2020-08-03T14:00:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cpu/</loc>
+    <lastmod>2020-08-03T14:00:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mac-os/</loc>
+    <lastmod>2020-08-03T13:56:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</loc>
+    <lastmod>2020-08-03T13:56:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/iphone/</loc>
+    <lastmod>2020-08-03T13:51:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/preturi-noi-pentru-iphone12-e-de-rau/</loc>
+    <lastmod>2020-08-03T13:51:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/android/</loc>
+    <lastmod>2020-08-03T13:43:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/browser/</loc>
+    <lastmod>2020-08-03T13:43:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/firefox/</loc>
+    <lastmod>2020-08-03T13:43:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/noul-firefox-pentru-android-dupa-mai-bine-de-1-an-de-teste/</loc>
+    <lastmod>2020-08-03T13:43:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/software/</loc>
+    <lastmod>2020-08-03T13:43:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</loc>
+    <lastmod>2020-08-03T13:32:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gaming/</loc>
+    <lastmod>2020-08-03T13:32:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/jocuri/</loc>
+    <lastmod>2020-08-03T13:32:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/optimizare/</loc>
+    <lastmod>2020-08-03T13:32:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/performanta/</loc>
+    <lastmod>2020-08-03T13:32:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/windows/</loc>
+    <lastmod>2020-08-03T13:32:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/5g/</loc>
+    <lastmod>2020-08-02T23:25:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/apple/</loc>
+    <lastmod>2020-08-02T23:25:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/huawei/</loc>
+    <lastmod>2020-08-02T23:25:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/in-china-vanzarea-iphoneurilor-a-crescut-cu-225/</loc>
+    <lastmod>2020-08-02T23:25:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/oppo/</loc>
+    <lastmod>2020-08-02T23:25:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vivo/</loc>
+    <lastmod>2020-08-02T23:25:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/iphone-12-va-spulbera-samsung-note-20-iata-de-ce/</loc>
+    <lastmod>2020-08-02T23:14:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/samsung/</loc>
+    <lastmod>2020-08-02T23:14:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/intel/</loc>
+    <lastmod>2020-08-02T23:09:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/intel/</loc>
+    <lastmod>2020-08-02T23:09:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/intel-lanseaza-core-i9-10850k/</loc>
+    <lastmod>2020-08-02T23:09:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/filme/</loc>
+    <lastmod>2020-08-02T22:53:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/filme/</loc>
+    <lastmod>2020-08-02T22:53:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/piraterie/</loc>
+    <lastmod>2020-08-02T22:53:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/top-10/</loc>
+    <lastmod>2020-08-02T22:53:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/top-10-cele-mai-piratatei-filme/</loc>
+    <lastmod>2020-08-02T22:53:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/torrent/</loc>
+    <lastmod>2020-08-02T22:53:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/doom/</loc>
+    <lastmod>2020-08-02T22:40:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</loc>
+    <lastmod>2020-08-02T22:40:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/minecraft/</loc>
+    <lastmod>2020-08-02T22:40:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cum-sa-faci-screenshouri-cu-iphone/</loc>
+    <lastmod>2020-08-02T22:07:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/ios/</loc>
+    <lastmod>2020-08-02T22:07:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/screenshot/</loc>
+    <lastmod>2020-08-02T22:07:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lg/</loc>
+    <lastmod>2020-08-02T21:57:52+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/lg-va-furiza-20-milioane-de-display-uri-olde-pentru-iphone-12/</loc>
+    <lastmod>2020-08-02T21:57:52+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/poze-cu-noul-procesor-a14-pentru-noile-iphoe-apar-pe-twiter/</loc>
+    <lastmod>2020-08-02T20:19:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hardtek.ro/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hardtek.ro/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hardtek.ro/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hardtek.ro/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cooler on HardTek - Tek La Greu</title>
+    <link>/tags/cooler/</link>
+    <description>Recent content in cooler on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 14:22:41 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/cooler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monstrul fara ventilatoare de la Noctua amanat</title>
+      <link>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</link>
+      <pubDate>Mon, 03 Aug 2020 14:22:41 +0300</pubDate>
+      
+      <guid>/post/monstrul-fara-ventilatoare-de-la-noctua-amanat/</guid>
+      <description>Anul trecut la Computex, Noctua a aratat un cooler masiv cu racire pasiva. Produsul trebuia sa se lanseze undeva in 2020 dar tinad cont de pandemie, s-a amanat pentru 2021.
+Desi este destinat procesoarelor high-end, sunt extrem de curios de performante, si e de inteles daca s-a amanat lansarea si din cauza ca Noctua vrea ca acest cooler care va scoate 0 decibeli sa fie perfect din toate punctele de vedere.</description>
+    </item>
+    
+  </channel>
+</rss>

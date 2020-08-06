@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jocuri on HardTek - Tek La Greu</title>
+    <link>/categories/jocuri/</link>
+    <description>Recent content in Jocuri on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 13:32:56 +0300</lastBuildDate>
+    
+	<atom:link href="/categories/jocuri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>9 sfaturi pentru a avea o super performanta in gaming</title>
+      <link>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</link>
+      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
+      
+      <guid>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</guid>
+      <description>Cand vine vorba de jocuri, FPS-urile sunt cele mai importante, nici cand te suna mama nu mai conteaza, daca esti prins intrun meci intens. Nu conteaza ce setup ai, chiar si cele mai optimizate titluri vor avea de suferit daca nu optimizezi PC-ul pentru gaming.
+  Update la driverele de la paca video   Daca vrei sa mergi intr-o batalie sau pe un traseu de curse sau chiar in spatiu, asigura-te ca ai ultimele drivere Nvidia sau AMD.</description>
+    </item>
+    
+    <item>
+      <title>In Minecraft poti juca Doom pe un PC cu Windows 95</title>
+      <link>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</link>
+      <pubDate>Sun, 02 Aug 2020 22:40:26 +0300</pubDate>
+      
+      <guid>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</guid>
+      <description>Dar poate rula Crysis? Asta este intrebarea cea mai folosita pe net referitoare la acest video.
+Un nou mod in Minecraft permite jucatorilor sa acceseze un PC care ruleaza pe Windows 95 ce are DOOM 3D instalat.
+Reddit
+Modul foloseste VirtualBox, soft gratuit si open source, ce poate fi folosit pentru a rula alte sisteme de operare, ca Windows 95. In Minecraft pur si simplu pui un block cu PC-ul, pe care il poti folosi ca un hard disk virtual pentru a instala Windows 95 dintr-un fisier ISO.</description>
+    </item>
+    
+  </channel>
+</rss>

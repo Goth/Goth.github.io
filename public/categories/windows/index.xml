@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on HardTek - Tek La Greu</title>
+    <link>/categories/windows/</link>
+    <description>Recent content in Windows on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 13:32:56 +0300</lastBuildDate>
+    
+	<atom:link href="/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>9 sfaturi pentru a avea o super performanta in gaming</title>
+      <link>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</link>
+      <pubDate>Mon, 03 Aug 2020 13:32:56 +0300</pubDate>
+      
+      <guid>/post/9-sfaturi-pentru-a-avea-o-super-performanta-in-gaming/</guid>
+      <description>Cand vine vorba de jocuri, FPS-urile sunt cele mai importante, nici cand te suna mama nu mai conteaza, daca esti prins intrun meci intens. Nu conteaza ce setup ai, chiar si cele mai optimizate titluri vor avea de suferit daca nu optimizezi PC-ul pentru gaming.
+  Update la driverele de la paca video   Daca vrei sa mergi intr-o batalie sau pe un traseu de curse sau chiar in spatiu, asigura-te ca ai ultimele drivere Nvidia sau AMD.</description>
+    </item>
+    
+  </channel>
+</rss>

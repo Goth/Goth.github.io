@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac os on HardTek - Tek La Greu</title>
+    <link>/tags/mac-os/</link>
+    <description>Recent content in mac os on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Mon, 03 Aug 2020 13:56:01 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/mac-os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac OS 8 este acum aplicatie si poate fi instalat in Mac OS, Windows si Linux</title>
+      <link>/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</link>
+      <pubDate>Mon, 03 Aug 2020 13:56:01 +0300</pubDate>
+      
+      <guid>/post/mac-os-8-este-acum-aplicatie-si-poate-fi-instalat-in-mac-os-windows-si-linux/</guid>
+      <description>Developerul aplicatiei Slack, Felix Rieseberg, a transformat Mac OS 8.1 intr-o aplicatie ce poate fi folosita pe orice sistem de operare. Dupa ce in 2018 a transformat Windows 95 intr-o aplicatie, acum s-a dus pana in 1991 cand s-a lansat Mac OS 8 Quadra facuta cu aplicatia Electron.
+macintosh.js app este scrisa in intregime in Java si foloseste o masina virtuala pentru a emula Macintosh Quadra 900 cu Motorola CPU facut de Apple.</description>
+    </item>
+    
+  </channel>
+</rss>

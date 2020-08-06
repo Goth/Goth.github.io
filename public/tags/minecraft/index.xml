@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minecraft on HardTek - Tek La Greu</title>
+    <link>/tags/minecraft/</link>
+    <description>Recent content in Minecraft on HardTek - Tek La Greu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, HardTek toate drepturile rezervate.</copyright>
+    <lastBuildDate>Sun, 02 Aug 2020 22:40:26 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Minecraft poti juca Doom pe un PC cu Windows 95</title>
+      <link>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</link>
+      <pubDate>Sun, 02 Aug 2020 22:40:26 +0300</pubDate>
+      
+      <guid>/post/in-minecraft-poti-juca-doom-pe-un-pc-cu-windows-95/</guid>
+      <description>Dar poate rula Crysis? Asta este intrebarea cea mai folosita pe net referitoare la acest video.
+Un nou mod in Minecraft permite jucatorilor sa acceseze un PC care ruleaza pe Windows 95 ce are DOOM 3D instalat.
+Reddit
+Modul foloseste VirtualBox, soft gratuit si open source, ce poate fi folosit pentru a rula alte sisteme de operare, ca Windows 95. In Minecraft pur si simplu pui un block cu PC-ul, pe care il poti folosi ca un hard disk virtual pentru a instala Windows 95 dintr-un fisier ISO.</description>
+    </item>
+    
+  </channel>
+</rss>
