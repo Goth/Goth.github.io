@@ -67,4 +67,4 @@ Ceea ce e cel mai conveninent este ca aplicatiile deschise pe PC in oglinda va f
 
 ![gif](https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/2/2020/08/981c0c28f97305545318d655cf5ac056.gif)
 
-Aceste update va fi valabil pentru utilizatorii care au Windows 10 cu update-ul din Octimbrie 2018 sau mai nou si cei care au pe telefoanele Samsung Android 9 Pie sau mai nou.
+Acest update va fi valabil pentru utilizatorii care au Windows 10 cu update-ul din Octombrie 2018 sau mai nou si cei care au pe telefoanele Samsung Android 9 Pie sau mai nou.
