@@ -1,5 +1,5 @@
 ---
-title: "Google Play Music Va Fi Oprit in Septembrie" # Title of the blog post.
+title: "Google Play Music se va opri in Septembrie" # Title of the blog post.
 date: 2020-08-08T16:42:32+03:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
